@@ -42,22 +42,22 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Zhen zhang | XinxingZhang-Lab</title>
+<title>Zhen zhang | Zhang Lab</title>
 
 <link rel="icon" href="/ZhangLab-OUHSC/images/icon.png">
 
 <meta name="title" content="Zhen zhang">
-<meta name="description" content="Visiting Scholar">
+<meta name="description" content="The Worm Lab at OUHSC. Visiting Scholar">
 
 <meta property="og:title" content="Zhen zhang">
-<meta property="og:site_title" content="XinxingZhang-Lab">
-<meta property="og:description" content="Visiting Scholar">
+<meta property="og:site_title" content="Zhang Lab">
+<meta property="og:description" content="The Worm Lab at OUHSC. Visiting Scholar">
 <meta property="og:url" content="https://xinxingzhang-lab.github.io/ZhangLab-OUHSC">
 <meta property="og:image" content="/ZhangLab-OUHSC/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Zhen zhang">
-<meta property="twitter:description" content="Visiting Scholar">
+<meta property="twitter:description" content="The Worm Lab at OUHSC. Visiting Scholar">
 <meta property="twitter:url" content="https://xinxingzhang-lab.github.io/ZhangLab-OUHSC">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/ZhangLab-OUHSC/images/share.jpg">
@@ -73,7 +73,7 @@
       "@type": "WebSite",
     
     "name": "Zhen zhang",
-    "description": "Visiting Scholar",
+    "description": "The Worm Lab at OUHSC. Visiting Scholar",
     "headline": "Zhen zhang",
     "publisher": {
       "@type": "Organization",
@@ -554,8 +554,10 @@
     
       <span class="title-text" data-tooltip="Home">
         
-          <span class="title">XinxingZhang-Lab</span>
+          <span class="title">Zhang Lab</span>
         
+        
+          <span class="subtitle">The Worm Lab at OUHSC</span>
         
       </span>
     
@@ -729,7 +731,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <div class="button-wrapper">
     <a
       class="button"
-      href="mailto:contact@XinxingZhang-Lab.com"
+      href="mailto:Xinxing-Zhang@ouhsc.edu"
       
         data-tooltip="Email"
       
@@ -738,54 +740,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       aria-label="Email"
     >
       <i class="icon fa-solid fa-envelope"></i>
-      
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a
-      class="button"
-      href="https://orcid.org/0000-0001-8713-9213"
-      
-        data-tooltip="ORCID"
-      
-      data-style="bare"
-      
-      aria-label="ORCID"
-    >
-      <i class="icon fa-brands fa-orcid"></i>
-      
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a
-      class="button"
-      href="https://scholar.google.com/citations?user=ETJoidYAAAAJ"
-      
-        data-tooltip="Google Scholar"
-      
-      data-style="bare"
-      
-      aria-label="Google Scholar"
-    >
-      <i class="icon fa-brands fa-google"></i>
       
     </a>
   </div>
@@ -816,59 +770,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
     
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a
-      class="button"
-      href="https://twitter.com/XinxingZhang-Lab"
-      
-        data-tooltip="Twitter"
-      
-      data-style="bare"
-      
-      aria-label="Twitter"
-    >
-      <i class="icon fa-brands fa-twitter"></i>
-      
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a
-      class="button"
-      href="https://youtube.com/XinxingZhang-Lab"
-      
-        data-tooltip="YouTube"
-      
-      data-style="bare"
-      
-      aria-label="YouTube"
-    >
-      <i class="icon fa-brands fa-youtube"></i>
-      
-    </a>
-  </div>
-
-
-    
   </div>
 
   <div>
     &copy; 2025
-    XinxingZhang-Lab
+    Zhang Lab
     &nbsp; | &nbsp; Built with
     <a href="https://github.com/greenelab/lab-website-template">
       Lab Website Template
