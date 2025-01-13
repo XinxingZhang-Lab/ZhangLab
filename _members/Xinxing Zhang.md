@@ -5,13 +5,13 @@ role: principal-investigator
 affiliation: University of Oklahoma Health Sciences Center
 aliases:
   - J. Zhang
-  - Dr. Zhang
-links:
-  email: Xinxing-Zhang@ouhsc.edu
+  - Dr. Zhang 
  
 ---
 
 Assistant Professor, Department of Cell Biology
+
+Email: Xinxing-Zhang@ouhsc.edu
 
 Xinxing’s laboratory investigates the neurobiology of homeostasis using C. elegans, especially the mechanisms that mediate water balance, cilia diseases, and other environmental stresses.
  
