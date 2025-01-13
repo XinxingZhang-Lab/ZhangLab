@@ -1,9 +1,10 @@
 ---
 ---
 
-# XinxingZhang-Lab's Website
+# Where neurobiology and homeostasis go hand in hand 
 
-An engaging 1-3 sentence description of your lab.
+The Zhang Lab is a research team at the [Oklahoma University Health Sciences Center](https://www.ouhsc.edu/) committed to answering the major and exciting questions regarding the neurobiology of homeostasis.  Our lab is focused on adapting new tools and developing novel protocols to further our knowledge in not only homeostasis, but also in body fluid balance and cilia diseases!
+
 
 {% include section.html %}
 
@@ -11,12 +12,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research is built on understanding how the nervous system senses external and interal stimuli, producing physiological and behavioral responses, and how "simple" malfunctions in a complex system contributes to human diseases.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn more about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,15 +27,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Multi worm .jpg"
   link="research"
   title="Our Research"
+  flip=true
+  style="bare"
   text=text
 %}
 
+
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+From animal behavior recording to structural biology, our projects use multidisciplinary approaches to identify the multiple driving forces behind homeostasis.
 
 {%
   include button.html
@@ -49,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Zhangs worms Free Moving0002.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,8 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+We are a team of excited researchers pursuing the mysteries that surround homeostasis.  We value all individuals and strive to build an equitable research enviroment to freely explore both science and ourselves.
 {%
   include button.html
   link="team"
