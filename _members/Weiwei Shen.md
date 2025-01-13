@@ -1,8 +1,9 @@
 ---
 name: Weiwei Shen
 image: images/photo.jpg
-role: Student
-group: alum
+description: Visiting Scholar
+role: phd
+
 
 ---
 
