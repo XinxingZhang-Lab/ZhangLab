@@ -47,17 +47,17 @@
 <link rel="icon" href="/ZhangLab-OUHSC/images/icon.png">
 
 <meta name="title" content="Zhen zhang">
-<meta name="description" content="An engaging 1-3 sentence description of your lab.">
+<meta name="description" content="Visiting Scholar">
 
 <meta property="og:title" content="Zhen zhang">
 <meta property="og:site_title" content="XinxingZhang-Lab">
-<meta property="og:description" content="An engaging 1-3 sentence description of your lab.">
+<meta property="og:description" content="Visiting Scholar">
 <meta property="og:url" content="https://xinxingzhang-lab.github.io/ZhangLab-OUHSC">
 <meta property="og:image" content="/ZhangLab-OUHSC/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Zhen zhang">
-<meta property="twitter:description" content="An engaging 1-3 sentence description of your lab.">
+<meta property="twitter:description" content="Visiting Scholar">
 <meta property="twitter:url" content="https://xinxingzhang-lab.github.io/ZhangLab-OUHSC">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/ZhangLab-OUHSC/images/share.jpg">
@@ -73,7 +73,7 @@
       "@type": "WebSite",
     
     "name": "Zhen zhang",
-    "description": "An engaging 1-3 sentence description of your lab.",
+    "description": "Visiting Scholar",
     "headline": "Zhen zhang",
     "publisher": {
       "@type": "Organization",
@@ -646,6 +646,8 @@
 <div class="portrait-wrapper">
   <a class="portrait" data-style="" aria-label="Zhen Zhang">
     
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
 
     <img src="/ZhangLab-OUHSC/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/ZhangLab-OUHSC/images/fallback.svg'; this.onerror = null;" />
 
@@ -655,6 +657,10 @@
       </span>
     
 
+    
+      <span class="portrait-description">
+        Visiting Scholar
+      </span>
     
 
     
