@@ -469,7 +469,7 @@
 
 <header
   class="background"
-  style="--image: url('/ZhangLab-OUHSC/images/background.jpg')"
+  style="--image: url('/ZhangLab-OUHSC/images/pretty%20cells.jpg')"
   
     data-dark="true"
   
@@ -708,7 +708,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <footer
   class="background"
-  style="--image: url('/ZhangLab-OUHSC/images/background.jpg')"
+  style="--image: url('/ZhangLab-OUHSC/images/pretty%20cells.jpg')"
   
     data-dark="true"
   
