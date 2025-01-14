@@ -9,8 +9,6 @@ nav:
 
 Our lab is looking for highly motivated, passionate, curious, and brave spirits who are dedicated to scientific discovery! We are currently taking graduate students enrolled in the GPiBS Program from both Cell Biology and Neuroscience Departments at OUHSC. Postdocs, research technicians, and undergrad candidates should send an email (with the title "Application_Your Name" to Dr. Zhang expressing their interests, along with a detailed CV and cover letter. Come and join us in our journey to answer the most exciting questions!
 {%
-
-{%
   include button.html
   type="email"
   text="Xinxing-Zhang@ouhsc.edu"
