@@ -7,27 +7,26 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is looking for highly motivated, passionate, curious, and brave spirits who are dedicated to scientific discovery! We are currently taking graduate students enrolled in the GPiBS Program from both Cell Biology and Neuroscience Departments at OUHSC. Postdocs, research technicians, and undergrad candidates should send an email (with the title "Application_Your Name" to Dr. Zhang expressing their interests, along with a detailed CV and cover letter. Come and join us in our journey to answer the most exciting questions!
+{%
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Xinxing-Zhang@ouhsc.edu"
+  link="Xinxing-Zhang@ouhsc.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(405) 271-8001"
+  link="+1-405-271-8001"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="[https://www.google.com/maps](https://maps.app.goo.gl/qEdARg1CFQPF2p766)"
 %}
 
 {% include section.html %}
