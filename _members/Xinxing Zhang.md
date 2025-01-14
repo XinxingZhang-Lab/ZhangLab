@@ -1,6 +1,6 @@
 ---
 name: Xinxing Zhang
-image: images/photo.jpg
+image: images/dr zhang pic.jpg
 role: principal-investigator
 affiliation: University of Oklahoma Health Sciences Center
 aliases:
