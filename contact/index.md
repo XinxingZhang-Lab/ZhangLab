@@ -24,7 +24,7 @@ Our lab is looking for highly motivated, passionate, curious, and brave spirits 
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/qEdARg1CFQPF2p766)"
+  link="https://maps.app.goo.gl/qEdARg1CFQPF2p766"
 %}
 
 {% include section.html %}
