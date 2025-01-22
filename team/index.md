@@ -18,7 +18,7 @@ on its inclusivity and diverse team, and where are differences only make us stro
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-If you want to find out more about our research, current projects, and team members get in touch with us! We encourage anyone who has an interest in who we are and what we do to reach out!
+If you want to find out more about our research, current projects, and team members get in touch with us! We encourage anyone who has an interest in who we are and what we do, feel free to reach out!
 
 {% include section.html %}
 
