@@ -1,6 +1,6 @@
 ---
 name: Xochitl Gonzalez
-image: images/photo.jpg
+image: images/xp.jpg
 description: Laboratory Technician
 role: programmer
   
