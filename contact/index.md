@@ -33,8 +33,8 @@ Our lab is looking for highly motivated, passionate, curious, and brave spirits 
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/worm head multi color.jpg"
+  caption="*C. elegans* neuron image"
 %}
 
 {% endcapture %}
@@ -43,13 +43,23 @@ Our lab is looking for highly motivated, passionate, curious, and brave spirits 
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/sooner.jpg"
+  caption="The Seed Sower"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/worm multi.jpg"
+  caption="Image of *C. elegans* neurons"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include section.html dark=true %}
 
