@@ -45,6 +45,8 @@ Our lab is looking for highly motivated, passionate, curious, and brave spirits 
   include figure.html
   image="images/sooner.jpg"
   caption="The Seed Sower"
+  width="100%"
+  height="200%"
 %}
 
 {% endcapture %}
