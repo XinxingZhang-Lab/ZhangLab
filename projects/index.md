@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our projectss mainly entail our two main topics of interest: body fluid homeostasis and cilia diseases. We are studying how the nervous system integrates information from both external environments and internal physiological status to achieve whole-body level fluid homeostasis and how to the malfunctions of ciliary proteins cause dyshomeostasis conditions.
 
 {% include tags.html tags="publication, resource, website" %}
 
