@@ -7,7 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Resources
 
-:Here are some useful links that will help you get started on your *C. elegans* journey!:
+## Here are some useful links that will help you get started on your *C. elegans* journey!
+
 
 **[WormBase](https://wormbase.org//#012-34-5)**
  | The central repository for the genetics and genomics of *C. elegans*
