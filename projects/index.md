@@ -7,8 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Publications
 
-## 2023
+## 2024
+- Barbelanne, M., Lu, Y., Kumar, K., **Zhang, X.**, Li, C., Park, K., Warner, A., Xu, X. Z., Shaham, S., & Leroux, M. R. (2024). [*C. elegans* PPEF-type phosphatase (retinal degeneration C ortholog) functions in diverse classes of cilia to regulate nematode behaviors](https://doi.org/10.1038/s41598-024-79057-z). *Scientific Reports*, 14(1).  
 
+## 2023
 - **Zhang, X.**, & Xu, X.Z.S. (2023). [Electroreception: Worms leap to insects for dispersal](https://doi.org/10.1016/j.cub.2023.06.018). *Current Biology* : *CB*, *33* (14), R775-R777.
 
 ## 2022
