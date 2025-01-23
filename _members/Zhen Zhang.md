@@ -9,4 +9,6 @@ role: phd
 ---
 Email: Zhen-Zhang@ouhsc.edu
 
-Zhen is a visiting scholar for the Zhang lab.  He is currently a master's student at the Institue of Zoology (IOZ) at the Chinese Academy of Sciences (CAS), majoring in biology and medicine, and is graduating in 2025.  While at IOZ, Zhen worked in the Zhao lab where he worked on the biological control of pine wilt disease in Masson pine with microorganisms using *Bursaphelenchus xylophilus*. Now at the Zhang lab, he is doing more work with cells and *C. elegans*. Outside of work, Zhen likes to visit parks, draw illustrations, and play badminton with friends.
+Zhen is a visiting scholar for the Zhang lab. He is currently earning his master's degree in biology and medicine from the Institute of Zoology (IOZ) at the Chinese Academy of Sciences (CAS), and is set to graduate in 2025! While at IOZ, Zhen worked in the Zhao lab where he focused on the biological control of **Pine Wilt Disease** in the Masson Pine using the microorganism *Bursaphelenchus xylophilus*.
+Now in the Zhang lab, he is focusing his work on cells and *C. elegans*.
+Outside of work, Zhen likes to visit parks, draw illustrations, and play badminton with friends.
