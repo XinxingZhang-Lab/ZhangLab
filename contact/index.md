@@ -33,7 +33,7 @@ Our lab is looking for highly motivated, passionate, curious, and brave spirits 
 
 {%
   include figure.html
-  image="images/ouhsc.jpg"
+  image="images/fall.jpg"
 %}
 
 {% endcapture %}
@@ -42,7 +42,7 @@ Our lab is looking for highly motivated, passionate, curious, and brave spirits 
 
 {%
   include figure.html
-  image="images/seed sower.jpg"
+  image="images/ouhsc.jpg"
 %}
 
 {% endcapture %}
