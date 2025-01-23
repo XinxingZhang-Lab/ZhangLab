@@ -1,1 +1,1 @@
-Sitemap: https://xinxingzhang-lab.github.io/ZhangLab-OUHSC/sitemap.xml
+Sitemap: https://xinxingzhang-lab.github.io/ZhangLab/sitemap.xml
