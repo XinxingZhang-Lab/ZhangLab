@@ -38,12 +38,12 @@ Our research is built on understanding how the nervous system senses external an
 
 {% capture text %}
 
-From animal behavior recording to structural biology, our projects use multidisciplinary approaches to identify the multiple driving forces behind homeostasis.
+Click here to check out our publications!
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -55,7 +55,7 @@ From animal behavior recording to structural biology, our projects use multidisc
   include feature.html
   image="images/DiI-N2-Red-2.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
