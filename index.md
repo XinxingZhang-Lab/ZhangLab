@@ -77,7 +77,7 @@ We are a team of excited researchers pursuing the mysteries that surround homeos
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Group Photo.JPG"
   link="team"
   title="Our Team"
   text=text
