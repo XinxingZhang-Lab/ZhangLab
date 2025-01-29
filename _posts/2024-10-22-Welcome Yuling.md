@@ -1,6 +1,6 @@
 ---
 title: Welcome Yuling!
-image: images/sooner.jpg
+image: images/yg.JPG
 author: Xochitl Gonzalez
 
 ---
