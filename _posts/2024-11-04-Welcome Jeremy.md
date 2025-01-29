@@ -1,6 +1,6 @@
 ---
 title: Welcome Jeremy!
-image: images/sooner.jpg
+image: images/Lab Lunch.jpg
 author: Xochitl Gonzalez
 
 ---
