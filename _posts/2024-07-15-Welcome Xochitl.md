@@ -1,6 +1,6 @@
 ---
 title: Welcome Xochitl!
-image: images/sooner.jpg
+image: images/Xoch.JPG
 author: Xinxing Zhang
 
 ---
