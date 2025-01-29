@@ -1,6 +1,6 @@
 ---
 title: Welcome Savanna!
-image: images/sooner.jpg
+image: images/Savana.JPG
 author: Xochitl Gonzalez
 
 ---
