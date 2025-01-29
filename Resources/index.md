@@ -2,7 +2,7 @@
 title: Resources
 nav:
   order: 6
-  tooltip: Learn more about *C. elegans*
+  tooltip: More info here!
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Resources
