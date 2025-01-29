@@ -16,7 +16,7 @@ Our research is built on understanding how the nervous system senses external an
 
 {%
   include button.html
-  link="research"
+  link="projects"
   text="Learn more about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -28,7 +28,7 @@ Our research is built on understanding how the nervous system senses external an
 {%
   include feature.html
   image="images/w for web.jpeg"
-  link="research"
+  link="projects"
   title="Our Research"
   flip=true
   style="bare"
@@ -42,7 +42,7 @@ Click here to check out our publications!
 
 {%
   include button.html
-  link="projects"
+  link="research"
   text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -54,7 +54,7 @@ Click here to check out our publications!
 {%
   include feature.html
   image="images/DiI-N2-Red-2.jpg"
-  link="projects"
+  link="research"
   title="Our Publications"
   flip=true
   style="bare"
