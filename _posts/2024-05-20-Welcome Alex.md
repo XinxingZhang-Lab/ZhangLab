@@ -1,6 +1,6 @@
 ---
 title: Welcome Alex!
-image: images/sooner.jpg
+image: images/Alex.JPG
 author: Xochitl Gonzalez
 
 ---
