@@ -2,7 +2,7 @@
 title: Publications
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Published works
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Publications
