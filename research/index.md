@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Our research
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
