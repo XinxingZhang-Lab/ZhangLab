@@ -1,6 +1,6 @@
 ---
 title: Welcome Weiwei!
-image: images/sooner.jpg
+image: images/Weiwei.JPG
 author: Xochitl Gonzalez
 
 ---
