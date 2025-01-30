@@ -27,7 +27,7 @@ Our research is built on understanding how the nervous system senses external an
 
 {%
   include feature.html
-  image="images/w for web.jpeg"
+  image="images/w for web brighter.jpg"
   link="projects"
   title="Our Research"
   flip=true
