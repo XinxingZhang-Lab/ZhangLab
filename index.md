@@ -5,6 +5,8 @@
 
 The Zhang Lab is a research team at the [Oklahoma University Health Sciences Center](https://www.ouhsc.edu/) committed to answering the major and exciting questions regarding the neurobiology of homeostasis.  Our lab is focused on adapting new tools and developing novel protocols to further our knowledge in not only homeostasis, but also in body fluid balance and cilia diseases!
 
+**Our lab is currently for a candidate who holds a bachelor/higher degree in computer science or in a related field. This candidate should have a clear career goal in which working in our lab will benefit them. A few tasks that come with the position are, image analysis, moving objects tracking with computer vision, microscope X,Y stage controlling. Any knowledge in microscope optics is a plus but not required. Until the position is filled, this ad will remain visible on our website. So, if you love exploring the unknown and want to expand your horizons, please get in contact with Dr. Xinxing Zhang!** 
+
 
 {% include section.html %}
 
