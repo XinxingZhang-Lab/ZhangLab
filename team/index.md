@@ -22,3 +22,7 @@ If you want to find out more about our research, current projects, and team memb
 
 {% include section.html %}
 
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
