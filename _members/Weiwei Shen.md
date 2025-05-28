@@ -1,7 +1,7 @@
 ---
 name: Weiwei Shen
 image: images/weiwei.jpg
-description: **Alumni**
+description: Alumni
 role: alumni
 
 
