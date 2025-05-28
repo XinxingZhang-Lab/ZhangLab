@@ -2,7 +2,7 @@
 name: Weiwei Shen
 image: images/weiwei.jpg
 description: Visiting Scholar
-role: phd
+role: alumni
 
 
 ---
