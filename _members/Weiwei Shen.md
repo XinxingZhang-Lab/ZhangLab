@@ -2,7 +2,7 @@
 name: Weiwei Shen
 image: images/weiwei.jpg
 description: Alumni
-role: alumni
+role: phd
 
 
 ---
