@@ -1,6 +1,6 @@
 ---
 title: Welcome Jundan!
-image: images/jundan.JPG
+image: images/jundan.png
 author: Xochitl Gonzalez
 
 ---
