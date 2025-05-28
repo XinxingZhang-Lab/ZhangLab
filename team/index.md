@@ -24,5 +24,5 @@ If you want to find out more about our research, current projects, and team memb
 
 {% include section.html %}
 ## Alumni
-{% include list.html data="alumni" component="portrait" filter="role == 'alumni'" %}
-{% include list.html data="alumni" component="portrait" filter="role != 'alumni'" %}
+{% include list.html data="alumni" component="alumni" %}
+{% include list.html data="alumni" component="alumni" %}
