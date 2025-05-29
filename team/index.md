@@ -17,7 +17,7 @@ on its inclusivity and diverse team, and where are differences only make us stro
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
 
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/pretty cells.jpg" dark=true %}
 
 If you want to find out more about our research, current projects, and team members get in touch with us! We encourage anyone who has an interest in who we are and what we do, feel free to reach out!
 
