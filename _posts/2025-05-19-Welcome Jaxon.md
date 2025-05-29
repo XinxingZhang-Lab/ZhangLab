@@ -1,6 +1,6 @@
 ---
 title: Welcome Jaxon!
-image: images/Jackson.jpeg
+image: images/Jackson.jpg
 author: Xochitl Gonzalez
 
 ---
