@@ -26,6 +26,11 @@ If you want to find out more about our research, current projects, and team memb
 
 ## Alumni
 
+Here are our past lab members who have gone on to amazing things at other schools, new positions, and everything in between. We will always be so thankful for their contributions to the lab!
+
+
+{% include section.html %}
+
 {% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
 
 {% include section.html %}
