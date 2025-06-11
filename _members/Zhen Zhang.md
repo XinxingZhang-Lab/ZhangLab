@@ -1,6 +1,6 @@
 ---
 name: Zhen Zhang
-image: images/Zhen picture.jpg
+image: images/Zhen_picture.jpg
 description: Visiting Scholar
 role: phd
 group: alumni
