@@ -8,10 +8,11 @@
     class="card-image"
   >
     <img
-      src="{{ include.image | relative_url | uri_escape }}"
-      alt="{{ include.title | default: "card image" | regex_strip }}"
-      loading="lazy"
-      {% include fallback.html %}
+  src="{{ include.image | relative_url | uri_escape }}"
+  alt="{{ include.title | default: "card image" | regex_strip }}"
+  loading="lazy"
+  style="object-fit: contain; width: 100%; height: auto;"
+  {% include fallback.html %}
     >
   </a>
 
