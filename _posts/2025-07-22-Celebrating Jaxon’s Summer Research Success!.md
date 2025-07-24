@@ -1,6 +1,6 @@
 ---
 title: Celebrating Jaxon’s Summer Research Success!
-image: images/Jaxonposter.jpg
+image: images/Jaxonposter.JPG
 author: Jundan Deng
 
 ---
