@@ -3,7 +3,7 @@ name: Xochitl Gonzalez
 image: images/xp.JPG
 description: Laboratory Technician
 role: programmer
-  
+group: alum  
   
 ---
 Email: Xochitl-Gonzalez@ouhsc.edu
