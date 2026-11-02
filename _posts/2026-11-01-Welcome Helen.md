@@ -1,6 +1,6 @@
 ---
 title: Welcome Helen!
-image: images/Helen.jpeg
+image: images/Helen.JPG
 author: Jundan Deng
 
 ---
