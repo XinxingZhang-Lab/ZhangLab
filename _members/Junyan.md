@@ -1,5 +1,5 @@
 ---
-name: Jundan Li
+name: Junyan Li
 image: images/junyan.jpg
 description: PhD
 role: phd
