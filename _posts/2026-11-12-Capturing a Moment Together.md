@@ -1,6 +1,6 @@
 ---
 title: Capturing a Moment Together!
-image: images/pretty cool lab pohot.jpg
+image: images/pretty cool lab pohot.JPG
 author: Jundan Deng
 
 ---
